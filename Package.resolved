@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "XMLCoder",
-        "repositoryURL": "https://github.com/maxdesiatov/XMLCoder.git",
+        "repositoryURL": "https://github.com/CoreOffice/XMLCoder.git",
         "state": {
           "branch": null,
-          "revision": "ac411bd6ab342780be0dfe6f679410f791d751d9",
-          "version": "0.11.1"
+          "revision": "f30119af03996939cc4f54e0bf0dda9f88a84da5",
+          "version": "0.13.1"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/weichsel/ZIPFoundation.git",
         "state": {
           "branch": null,
-          "revision": "cf10bbff6ac3b873e97b36b9784c79866a051a8e",
-          "version": "0.9.12"
+          "revision": "7254c74b49cec2cb81520523ba993c671f71b066",
+          "version": "0.9.14"
         }
       }
     ]
