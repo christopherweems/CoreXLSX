@@ -1,4 +1,5 @@
 {
+  "originHash" : "9b056e2220273eeffc978bf78d5fce58fa3dcac6a5726ead43eb08f27cf841c9",
   "pins" : [
     {
       "identity" : "xmlcoder",
@@ -15,9 +16,9 @@
       "location" : "https://github.com/christopherweems/ZIPFoundation.git",
       "state" : {
         "branch" : "development",
-        "revision" : "9e77181e960115abda0b91b648c8c274c7ed1026"
+        "revision" : "ca3ee125c05e116027d9fc3b1d0ab622493bd63a"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
